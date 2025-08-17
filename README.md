@@ -1,4 +1,4 @@
-# Disease Detection from Chest X-Ray 🩻🧠
+# Chest X-Ray Pneumonia Detection 🩻🧠
 
 ## Project Goal
 Build a deep learning model to classify chest X-ray images as **Normal** or **Pneumonia**, demonstrating how AI can support medical diagnosis.
@@ -22,7 +22,7 @@ Build a deep learning model to classify chest X-ray images as **Normal** or **Pn
 
 1. Clone the repository:
 ```bash
-git clone <https://github.com/riadkassem/Pneumonia-Disease-Detection-From-Chest-X-ray.git>
+git clone <https://github.com/riadkassem/Chest-X-Ray-Pneumonia-Detection>
 cd <DiseaseDetection>
 ```
 2. Install required libraries:
