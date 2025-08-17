@@ -22,7 +22,7 @@ Build a deep learning model to classify chest X-ray images as **Normal** or **Pn
 
 1. Clone the repository:
 ```bash
-git clone <https://github.com/riadkassem/Disease-Detection-From-Chest-X-ray.git>
+git clone <https://github.com/riadkassem/Pneumonia-Disease-Detection-From-Chest-X-ray.git>
 cd <DiseaseDetection>
 ```
 2. Install required libraries:
